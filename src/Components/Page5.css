@@ -1,0 +1,24 @@
+.page5-background {
+    background: url('../Assests/Img/footer-banner.png') no-repeat center center;
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .text-white {
+    color: white;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: center;
+     border-radius: 25px;
+    
+  }
+  
+  .m-2 {
+    margin: 0.5rem;
+  }
+  
